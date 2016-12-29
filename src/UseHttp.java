@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 //ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ
+=======
+>>>>>>> e94dec99524561875079f49f7182c78c04a093e0
 /**
  * @author xiezhimao
  * @version 2016-12-29
