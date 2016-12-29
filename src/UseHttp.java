@@ -1,11 +1,9 @@
-<<<<<<< HEAD
-//canii
-=======
+//ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ
 /**
  * @author xiezhimao
  * @version 2016-12-29
  */
->>>>>>> 620bb7977dc30250342e2dab8cc2101b94c3bfb1
+
 //程序文件名为UseHttp.java
 import java.io.*;
 import java.net.*;
