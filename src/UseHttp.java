@@ -1,6 +1,4 @@
-//BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
-/**
- * @author xiezhimao
+//BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB/** * @author xiezhimao
  * @version 2016-12-29
  */
 
