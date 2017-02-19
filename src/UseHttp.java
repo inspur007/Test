@@ -3,7 +3,7 @@
 /** * @author xiezhimao
  * @version 2016-12-29
  */
- 多福多寿都挺好的挺好的投入 
+擦擦擦擦是实打实
 
 //程序文件名为UseHttp.java
 import java.io.*;
