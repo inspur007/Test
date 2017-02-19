@@ -18,6 +18,11 @@ public class UseHttp
         try
         {
             //构造URL对象
+			//构造URL对象
+			//构造URL对象//构造URL对象
+			//构造URL对象//构造URL对象
+			//构造URL对象//构造URL对象
+			//构造URL对象//构造URL对象//构造URL对象
             URL currenturl = new URL(urlstring);
             urlstring = currenturl.toString();
                       //判断是否是HTTP协议
