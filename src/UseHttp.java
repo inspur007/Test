@@ -12,7 +12,9 @@ public class UseHttp
 {
     public static void main(String[] args)
     {
-        String urlstring = "http://www.sohu.com";
+       Scanner scanner = new Scanner(Sysytem.in);       
+	   int input = scannner.nextInt();
+	   String urlstring = "http://www.sohu.com";
         //String httpresp = new String();
         String status = new String("good");
         try
