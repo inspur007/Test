@@ -8,11 +8,7 @@
 import java.io.*;
 import java.net.*;
 //构造URL对象//构造URL对象//构造URL对象//构造URL对象//构造URL对象
-//构造URL对象//构造URL对象//构造URL对象
-//构造URL对象//构造URL对象//构造URL对象
-//构造URL对象//构造URL对象//构造URL对象
-//构造URL对象//构造URL对象//构造URL对象//构造URL对象//构造URL对象
-//构造URL对象//构造URL对象//构造URL对象//构造URL对象//构造URL对象//构造URL对象//构造URL对象//构造URL对象
+
 
 public class UseHttp
 {
