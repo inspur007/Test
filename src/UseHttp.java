@@ -4,7 +4,7 @@
 /** * @author xiezhimao
  * @version 2016-12-29
  */
-
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 //程序文件名为UseHttp.java
 import java.io.*;
 import java.net.*;
