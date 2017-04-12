@@ -1,5 +1,4 @@
-//XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-//
+
 监控指标正常，测试通过0302
 /** * @author xiezhimao
  * @version 2016-12-29
